@@ -22,3 +22,5 @@ To use this Prework Study Guide, you can review the notes in each section. On th
 Me
 
 ## License
+ 
+ This lets other developers know what they can and cannot do with your project.
